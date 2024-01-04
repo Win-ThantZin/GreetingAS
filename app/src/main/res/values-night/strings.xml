@@ -1,5 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Test Project</string>
     <string name="img_description">The image is built-in and use it for non-profit purpose.</string>
     <string name="img_label">This image looks like a snail, actually not!</string>
 </resources>
