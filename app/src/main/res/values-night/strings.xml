@@ -2,4 +2,8 @@
 <resources>
     <string name="img_description">The image is built-in and use it for non-profit purpose.</string>
     <string name="img_label">This image looks like a snail, actually not!</string>
+    <string name="str_title">Title</string>
+    <string name="str_to">To</string>
+    <string name="str_write_here">Write Here!</string>
+    <string name="str_send">Send</string>
 </resources>
